@@ -1,0 +1,15 @@
+body{
+
+	background-image: url("../images/whitebackground.jpg");
+	font-family: "arial", "sans-serif";
+}
+
+h1, h5{
+
+	text-align: center;
+
+}
+
+.button.small{
+	margin-left: 90px;
+}
