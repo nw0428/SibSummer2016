@@ -1,0 +1,40 @@
+body {
+    background-color: #1AD8E4;
+}
+
+a {
+    color: white;
+}
+
+#container {
+    background-color: #FFFFFF;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#header {
+    background-color: #E4721A;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#content {
+    background-color: #1B6417;
+    padding: 10px;
+}
+
+#left {
+    background-color: #581764;
+    width: 540px;
+    float: left;
+}
+
+#right {
+    background-color: #EE19B0;
+    width: 540px;
+    float: right;
+}
+
+#footer {
+    clear: both;
+}
