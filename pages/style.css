@@ -5,6 +5,7 @@ body {
 
 a {
     color: #FBFBFF;  /*WHITE LINKS*/
+    text-align: center;
 }
 
 #container {
@@ -29,15 +30,17 @@ a {
 #left {
     background-color: #0B4F6C; /*DARK BLUE*/
     width: 42%;
-    margin: 0 4%;
+    margin: 0 2%;
     float: left;
+    padding: 10px;
 }
 
 #right {
     background-color: #0B4F6C; /*DARK BLUE*/
     width: 42%;
-    margin: 0 4%;
+    margin: 0 2%;
     float: right;
+    padding: 10px;
 }
 
 @media(max-width: 1000px) {
