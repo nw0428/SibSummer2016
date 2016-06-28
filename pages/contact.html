@@ -11,7 +11,7 @@
 </head>      
 <body>
        <h5>What happens when you send me your information? Only one way to find out.</h5>
-        <form>
+        <form method="post" action="mailto:chdastolfo@gmail.com">
           <div class="row">
             <div class="large-12 columns">
               <label>Full Name</label>
@@ -48,22 +48,12 @@
               </select>
             </div>
           </div>
-          <div class="row">
-            <div class="large-6 medium-6 columns">
-              <label>Choose Your Favorite</label>
-              <input type="radio" name="pokemon" value="Red" id="pokemonRed"><label for="pokemonRed">Radio 1</label>
-              <input type="radio" name="pokemon" value="Blue" id="pokemonBlue"><label for="pokemonBlue">Radio 2</label>
-            </div>
-            <div class="large-6 medium-6 columns">
-              <label>Check these out</label>
-              <input id="checkbox1" type="checkbox"><label for="checkbox1">Checkbox 1</label>
-              <input id="checkbox2" type="checkbox"><label for="checkbox2">Checkbox 2</label>
-            </div>
           </div>
           <div class="row">
             <div class="large-12 columns">
-              <label>Textarea Label</label>
-              <textarea placeholder="small-12.columns"></textarea>
+              <label>Tell me something about yourself!</label>
+              <textarea placeholder="If you're boring, probably you should just lie."></textarea>
+             <a href="mailto:chdastolfo@gmail.com" class="small button">Submit</a>
             </div>
           </div>
         </form>
