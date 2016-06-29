@@ -1,0 +1,40 @@
+.reamde {
+  text-align: center;
+}
+
+.center {
+  margin: 0 auto;
+  float: none;
+}
+
+body {
+	background-color: silver; 
+	color: #252222; 
+	font-family: Circular;
+	font-size: 20px;
+	text-align: center;
+	}
+
+h1{
+	margin-left: 5%;
+	color: #252222; 
+}
+
+.poa{
+	width: 50%;
+	margin: 0 auto;
+	}
+
+.vid{
+	width: 50%;
+	margin: 0 auto;
+}
+
+p{
+	text-align: center;
+	}
+
+footer {
+  margin-top: 2em;
+  background: silver;
+}
