@@ -1,4 +1,7 @@
 $(document).foundation()
+
+
+
 var stickySidebar = $('.sticky');
 
 if (stickySidebar.length > 0) { 

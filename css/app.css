@@ -25,6 +25,7 @@ h1, h3, h5{
 	text-align: right;
 	list-style-type: none;
 	margin-left: none;
+	font-size: 60em;
 }
 
 .header {
@@ -60,7 +61,7 @@ h1, h3, h5{
   height: 100vh; }
   .hero:before {
     content: '';
-    position: absolute;
+    position: relative;
     top: 0;
     right: 0;
     bottom: 0;
