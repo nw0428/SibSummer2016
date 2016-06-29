@@ -25,14 +25,14 @@ h1{
 	margin: 0 auto;
 	}
 
-	p{
-		text-align: center;
-	}
-
-
-.vid {
-	display: block;
+.vid{
+	width: 50%;
+	margin: 0 auto;
 }
+
+p{
+	text-align: center;
+	}
 
 footer {
   margin-top: 2em;
