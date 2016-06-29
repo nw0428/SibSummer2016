@@ -1,0 +1,69 @@
+img {
+    margin: 40px 0px 0px 0px;
+}
+h1 {
+	font-family: 'Arvo', serif;
+}
+
+h2 {
+	font-family: 'Arvo', serif;
+	font-size: .9em;
+	text-align: center;
+	padding: 20px 0px 50px 0px;
+}
+
+h3 {
+	font-family: 'Arvo', serif;
+	font-size: 90%;
+	text-align: left;
+	color: black;
+}
+
+body {
+  text-align: center;
+  color: black;
+  font-family: arial;
+  padding: 0 50px 50px 50px;
+}
+
+a {
+	color: white;
+}
+
+p {
+  text-align: left;
+}
+
+ul {
+	padding: 10px;
+	background: black;
+	text-align: left;
+}
+li {
+	display: inline;
+	font-size: 75%;
+	padding: 0px 10px 0px 10px;
+}
+.back {
+	float: right;
+}
+.leftside_pic {
+	float: left;
+	max-height: 300px;
+	margin: -40px 50px 0 0;
+}
+
+/*.section1 {
+	background-color: #ecf1f7;
+	text-align: center;
+	font-size: 1.5em;
+	padding: 20px 50px 20px 50px;
+}
+
+.section2 {
+	margin-top: 40px;
+}*/
+
+
+
+
