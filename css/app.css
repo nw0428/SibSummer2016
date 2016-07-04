@@ -10,9 +10,23 @@ h1, h3, h5{
 
 }
 
-.button.small{
-   
+.button.small{ 
     top: 50%;
+}
+
+.center {
+    clear: both;
+    position: relative;
+}
+
+.small-3 {
+  position: absolute;
+     top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    
 }
 
 .wrapper {
@@ -47,13 +61,14 @@ h1, h3, h5{
     display: inline-block; }
     .header-subnav li a {
       padding: 0.9rem 1rem 0.75rem;
-      font-size: 0.875rem;
+      font-size: 1.875rem;
       color: #fff;
 }
 
-  .sticky {
+.sticky {
   position: relative;
-  top: 0; }
+  top: 0;
+  float: inherit;}
 
   .hero {
   background: url("../images/clouds.jpg") no-repeat center center;
